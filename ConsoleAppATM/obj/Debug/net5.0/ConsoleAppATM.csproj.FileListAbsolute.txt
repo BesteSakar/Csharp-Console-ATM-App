@@ -1,0 +1,16 @@
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\obj\Debug\net5.0\ConsoleAppATM.csproj.AssemblyReference.cache
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\obj\Debug\net5.0\ConsoleAppATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\obj\Debug\net5.0\ConsoleAppATM.AssemblyInfoInputs.cache
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\obj\Debug\net5.0\ConsoleAppATM.AssemblyInfo.cs
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\obj\Debug\net5.0\ConsoleAppATM.csproj.CoreCompileInputs.cache
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\bin\Debug\net5.0\ConsoleAppATM.exe
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\bin\Debug\net5.0\ConsoleAppATM.deps.json
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\bin\Debug\net5.0\ConsoleAppATM.runtimeconfig.json
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\bin\Debug\net5.0\ConsoleAppATM.runtimeconfig.dev.json
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\bin\Debug\net5.0\ConsoleAppATM.dll
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\bin\Debug\net5.0\ConsoleAppATM.pdb
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\obj\Debug\net5.0\ConsoleAppATM.dll
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\obj\Debug\net5.0\refint\ConsoleAppATM.dll
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\obj\Debug\net5.0\ConsoleAppATM.pdb
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\obj\Debug\net5.0\ConsoleAppATM.genruntimeconfig.cache
+C:\Users\beste\Desktop\FormDersleri-1\ConsoleAppATM\obj\Debug\net5.0\ref\ConsoleAppATM.dll
